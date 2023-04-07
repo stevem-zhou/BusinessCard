@@ -1,14 +1,16 @@
-.panel{
-    background-color: #1A1B21;
-    width: 317px;
-    height: 780px;
-    border-radius: 10px;
-    overflow: hidden;
-    margin-top: 80px;
+.panel {
+  background-color: #1a1b21;
+  width: 317px;
+  height: 780px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  position: relative;
 }
 
-.personal-photo{
-    border-radius: 10px 10px 0px 0px;
-    width: 317px;
-    height: 317px;
+.personal-photo {
+  border-radius: 10px 10px 0px 0px;
+  width: 317px;
+  height: 317px;
 }

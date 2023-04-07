@@ -6,6 +6,20 @@ button {
   letter-spacing: 1px;
 }
 
+a{
+  text-decoration: none;
+  width: 115px;
+  height: 34px;
+}
+
+a:nth-child(1){
+  margin-right: 17px;
+}
+
+.linkedin-button:hover, .email-button:hover{
+  cursor:pointer;
+}
+
 .linkedin-button {
   box-sizing: border-box;
   width: 115px;

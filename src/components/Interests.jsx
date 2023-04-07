@@ -1,10 +1,11 @@
 import React from "react";
+import "./Interests.css"
 
 export default function Interests(){
     return(
         <div className="interests-section">
-            <h2>Interests</h2>
-            <p>Programming, matcha, music, one piece, sleep</p>
+            <h2 className="interests-title">Interests</h2>
+            <p className="interests-info">Programming, matcha, music, one piece, sleep</p>
         </div>
     )
 }
